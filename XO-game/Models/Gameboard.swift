@@ -42,6 +42,15 @@ public final class Gameboard {
         positions.flatMap { $0 }.contains(nil)
     }
     
+    public func isAvailablePositions(at position: GameboardPosition) -> Bool {
+        if positions[position.column][position.row] != Player.first {
+            if positions[position.column][position.row] != Player.second {
+                return true
+            }
+        }
+        return false
+    }
+    
     // MARK: - Private
     
     private func initialPositions() -> [[Player?]] {

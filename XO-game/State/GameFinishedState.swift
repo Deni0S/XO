@@ -30,7 +30,11 @@ class GameFinishedState: GameState {
         case .some(.first):
             winnerText = "First player won"
         case .some(.second):
-            winnerText = "Second player won"
+            if gameViewController?.isComputerVsHuman ?? false {
+                winnerText = "Computer won"
+            } else {
+                winnerText = "Second player won"
+            }
         case .none:
             winnerText = "Draw"
         }
