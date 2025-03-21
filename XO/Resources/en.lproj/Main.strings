@@ -1,0 +1,24 @@
+
+/* Class = "UIButton"; normalTitle = "Blind Player"; ObjectID = "08h-CW-mah"; */
+"08h-CW-mah.normalTitle" = "Blind Player";
+
+/* Class = "UILabel"; text = "Winner is 1st player!"; ObjectID = "5M8-Sh-pRf"; */
+"5M8-Sh-pRf.text" = "Winner is 1st player!";
+
+/* Class = "UIButton"; normalTitle = "vs Human"; ObjectID = "FZt-ba-hWo"; */
+"FZt-ba-hWo.normalTitle" = "vs Human";
+
+/* Class = "UIButton"; normalTitle = "Restart"; ObjectID = "FlK-xv-cci"; */
+"FlK-xv-cci.normalTitle" = "Restart";
+
+/* Class = "UILabel"; text = "2nd player"; ObjectID = "LSW-na-Of7"; */
+"LSW-na-Of7.text" = "2nd player";
+
+/* Class = "UIButton"; normalTitle = "vs Сomputer"; ObjectID = "Uui-pF-Gic"; */
+"Uui-pF-Gic.normalTitle" = "vs Сomputer";
+
+/* Class = "UIButton"; normalTitle = "Select Game"; ObjectID = "c7t-tA-MKb"; */
+"c7t-tA-MKb.normalTitle" = "Select Game";
+
+/* Class = "UILabel"; text = "1st player"; ObjectID = "lyE-7i-9c4"; */
+"lyE-7i-9c4.text" = "1st player";
